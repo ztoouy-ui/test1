@@ -14,6 +14,10 @@
     </style>
 </head>
 <body>
+<h1>🏄‍♂️ 서핑 보드 자동 매칭</h1>
+<div class="container">
+    <label>파고 (m)</label>
+    <input type="number" id="height" step="0.1">
     <label>피리어드 (s)</label>
     <input type="number" id="period" step="0.1">
 
